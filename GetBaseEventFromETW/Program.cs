@@ -29,7 +29,7 @@ namespace GetBaseEventFromETW
             
             
 
-            Console.Title = "ManageYourSystem";
+            Console.Title = "SysManager";
             //using (var sw = new StreamWriter(@"E:\EventLogInCS\PropertyInfo.txt"))
             //{
             //    sw.Write(FillPropertyInfo(new NetworkEvent()));
