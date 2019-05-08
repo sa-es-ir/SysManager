@@ -1,2 +1,2 @@
 # SysManager
-SysManager is a windows application to monitor your windows and manage process
+SysManager is a windows application to monitor your windows and manage win process
