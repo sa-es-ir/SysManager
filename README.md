@@ -3,4 +3,4 @@ SysManager is a windows application to monitor your windows and manage win proce
 
 This is a project for the university when I was student. So it isn't follow clean code.
 
-It uses the windows ETW events.
+It uses the windows ETW events and in the kernel mode.
